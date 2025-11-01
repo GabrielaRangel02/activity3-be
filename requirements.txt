@@ -1,0 +1,10 @@
+txt
+fastapi
+uvicorn[standard]
+pillow
+numpy
+tensorflow==2.15.*
+scikit-learn
+python-multipart
+requests
+pydantic<3
