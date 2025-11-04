@@ -1,0 +1,10 @@
+gitignore
+__pycache__/
+*.pyc
+.venv/
+.env
+# modelos y datos
+app/model/model.h5
+app/model/*.h5
+app/model/labels.json
+data/
